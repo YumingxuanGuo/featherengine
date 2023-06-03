@@ -394,7 +394,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "featherdb"
+name = "featherengine"
 version = "0.1.0"
 dependencies = [
  "bincode",
